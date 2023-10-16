@@ -80,3 +80,5 @@ We will define a class of types called *closed inductive families* that is known
 ## Progress
 
 All the parts of the project will be added here.
+
+- Chapter 1: [Dependent Types with Gödel Vibes](chapters/ch1.md) -- definition of closed inductive families, introduction and proof of existence of Gödel numberings of terms of closed inductive families.
